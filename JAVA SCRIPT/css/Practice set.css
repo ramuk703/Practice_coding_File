@@ -1,0 +1,31 @@
+.class_Submit
+{
+    color: red;
+}
+#Heart
+{
+    
+    border: 3px solid black;
+    
+    padding: 5px 15px;
+    border-radius: 10px;
+    text-transform: uppercase;
+}
+#Bag
+{
+    background-color: greenyellow;
+    border: none;
+    
+    margin: 2px;
+    padding: 5px 15px;
+    border-radius: 12px;
+}
+#Sale
+{
+    background-color: greenyellow;
+    border: none;
+    text-transform: capitalize;
+    margin: 2px;
+    padding: 5px 15px;
+    border-radius: 12px;
+}

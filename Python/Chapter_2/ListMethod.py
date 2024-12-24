@@ -1,0 +1,11 @@
+List = [1,2,3,4,5]
+print(List)
+List.insert(5,7)
+print(List)
+List.remove(2)
+print(List)
+List.pop(2)
+print(List)
+List.append(9)
+print(List)
+# print(List.append([List]))
